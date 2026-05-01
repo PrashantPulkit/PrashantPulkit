@@ -1,16 +1,43 @@
-## Hi there 👋
+# Prashant Pulkit
 
-<!--
-**PrashantPulkit/PrashantPulkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech student specializing in Industrial Internet of Things (IIoT) at Guru Gobind Singh Indraprastha University (USAR), Delhi. My core focus lies in architecting scalable backend systems and exploring the intersections of Artificial Intelligence and Deep Learning.
 
-Here are some ideas to get you started:
+### Current Focus
+* **Backend Development**: Building robust microservices and RESTful APIs using Java and Spring Boot.
+* **Artificial Intelligence**: Implementing Retrieval-Augmented Generation (RAG) and Agentic AI systems.
+* **Cloud & Databases**: Managing relational (MySQL/PostgreSQL) and graph-based (Neo4j) data structures alongside cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### Professional Experience
+* **Java Intern | Infosys Springboard**: Developing full-stack applications with a focus on Role-Based Access Control (RBAC) and Spring Security.
+* **AI and DL Trainee | Samsung Innovation Campus**: Completed intensive training in Machine Learning and Deep Learning frameworks
+* **AI Agent Intern | CSRBOX IBM SkillsBuild**: Focused on the deployment of multi-agent systems and vector-based retrieval.
+
+---
+
+### Certifications
+* **Neo4j Certified Professional**
+* **Oracle Certified Foundations Associate**: Oracle Cloud Infrastructure (OCI)
+* **Java Foundation Certification**: Data Structures and Algorithms
+* **IBM**: Getting Started with Artificial Intelligence
+
+---
+
+### Connect with me
+* **Email**: prashantpulkit5@gmail.com
+* **LinkedIn**: [linkedin.com/in/prashant-pulkit](https://linkedin.com/in/prashant-pulkit)
