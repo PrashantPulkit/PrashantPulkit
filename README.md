@@ -1,6 +1,6 @@
 # Prashant Pulkit
 
-I am a B.Tech student specializing in Industrial Internet of Things (IIoT) at Guru Gobind Singh Indraprastha University (USAR), Delhi. My core focus lies in architecting scalable backend systems and exploring the intersections of Artificial Intelligence and Deep Learning.
+I am a B.Tech student specializing in Internet of Things (IIoT) at Guru Gobind Singh Indraprastha University (USAR), Delhi. My core focus lies in architecting scalable backend systems and exploring the intersections of Artificial Intelligence and Deep Learning.
 
 ### Current Focus
 * **Backend Development**: Building robust microservices and RESTful APIs using Java and Spring Boot.
@@ -31,10 +31,9 @@ I am a B.Tech student specializing in Industrial Internet of Things (IIoT) at Gu
 ---
 
 ### Certifications
-* **Neo4j Certified Professional**
+* **Neo4j Certified Professional** : Neo4j Aura
 * **Oracle Certified Foundations Associate**: Oracle Cloud Infrastructure (OCI)
-* **Java Foundation Certification**: Data Structures and Algorithms
-* **IBM**: Getting Started with Artificial Intelligence
+* **Java Foundation Certification**: Infosys SpringBoard
 
 ---
 
